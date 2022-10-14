@@ -2,3 +2,4 @@
 
 # what is this?
 
+# [Dairy](./diary.md)
