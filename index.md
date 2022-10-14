@@ -2,4 +2,4 @@
 
 # what is this?
 
-# [Dairy](./diary.md)
+# [Dairy](./diary/diary.md)
